@@ -14,7 +14,7 @@ Bibliotecas necessárias:<br></br>
 Você pode instalar o PyAutoGui com o seguinte comando:<br></br>
 <strong>pip install pyautogui</strong> 
 
-📚  Confira a documentação oficial do [PyAutoGUI](https://chatgpt.com/c/6745c441-a6ac-8006-8bce-24e1df708ddb) para mais informações. 
+📚  Confira a documentação oficial do [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/) para mais informações. 
 
 <h3>Dica Extra:</h3>
 O comando pyautogui.PAUSE = 2.5 é uma forma prática de definir um intervalo padrão de 2,5 segundos entre a execução de cada comando do PyAutoGUI. Isso elimina a necessidade de adicionar várias chamadas ao time.sleep no código, tornando-o mais limpo e eficiente.
