@@ -210,7 +210,7 @@ for _ in range(25):
     time.sleep(2)
     pyautogui.click(x=1235, y=646)
     time.sleep(2)
-    pyautogui.write('Fabio Medina')
+    pyautogui.write('texto no filtro')
     time.sleep(2)
     pyautogui.press('enter')
     time.sleep(2)
